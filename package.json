@@ -1,0 +1,25 @@
+{
+  "name": "compiler-webpack-plugin",
+  "version": "0.0.1",
+  "description": "A webpack plugin which allows the configuration to define its own compiler callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliottsj/compiler-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Spencer Elliott <me@elliottsj.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elliottsj/compiler-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/elliottsj/compiler-webpack-plugin#readme",
+  "devDependencies": {
+    "standard": "5.1.0"
+  }
+}
