@@ -1,5 +1,7 @@
 # compiler-webpack-plugin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/elliottsj/compiler-webpack-plugin.svg)](https://greenkeeper.io/)
+
 [![devDependency Status][david-dev-badge]][david-dev]
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
