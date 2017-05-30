@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/elliottsj/compiler-webpack-plugin#readme",
   "devDependencies": {
-    "standard": "5.1.0"
+    "standard": "10.0.2"
   }
 }
